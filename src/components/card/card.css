@@ -1,0 +1,26 @@
+.cardContainer {
+    width: 260px;
+    max-height: 300px;
+    box-shadow: rgb(255 255 255 / 35%) 0px 5px 15px;
+    background-color: black;
+    border-radius: 20px;
+    padding-bottom: 20px;
+ cursor: pointer;
+}
+img.cardImg {
+    width: 260px;
+    height: 15vw;
+    object-fit: cover;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+h3.cardTitle {
+    padding: 5px 10px;
+    height: 60px;
+}
+.cardDate{
+    padding: 5px ;
+    margin: 10px 10px;
+    border: 1px solid rgba(255, 255, 255, 0.342);
+
+}

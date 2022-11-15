@@ -1,0 +1,11 @@
+.infiniteContainer{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 40px;
+    padding: 20px 15px;
+    justify-content: center;
+}
+.infiteHead{
+    padding: 20px 15px;
+}

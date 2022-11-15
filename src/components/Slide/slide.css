@@ -1,0 +1,7 @@
+.slideContainer {
+    display: flex;
+    gap: 30px;
+    overflow-x: scroll;
+    padding: 40px;
+    margin: 20px;
+}
